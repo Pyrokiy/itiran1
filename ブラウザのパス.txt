@@ -1,0 +1,10 @@
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+
+
+
+
+アイコンパス例
+
+アイコン画像の保存場所やファイルのパス（例：“icons/sample.ico”）のこと。
+- アプリやシステムがアイコン画像を表示するために必要なファイルの場所。
+.icoか.gif

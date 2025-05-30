@@ -1,0 +1,33 @@
+{
+    "業務": [
+        {
+            "name": "サンプルアプリ1",
+            "path": "C:/myapps/sample1.exe",
+            "icon": "icons/sample1.ico"
+        }
+    ],
+    "ツール": [
+        {
+            "name": "サンプルアプリ2",
+            "path": "C:/myapps/sample2.exe",
+            "icon": "icons/sample2.ico"
+        },
+        {
+            "name": "FAQ",
+            "path": "C:\\Users\\sfhuser009\\Desktop\\FAQ\\index.html",
+            "icon": "icons/default.ico"
+        },
+        {
+            "name": "FAQ2",
+            "path": "C:/Users/sfhuser009/Desktop/FAQ/index.html",
+            "icon": "icons/default.ico"
+        }
+    ],
+    "IE": [
+        {
+            "name": "インターネット",
+            "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+            "icon": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\n"
+        }
+    ]
+}
