@@ -5,7 +5,7 @@ from tkinter import ttk, messagebox, simpledialog
 
 APP_LIST_FILE = 'app_list.json'
 
-# 初期データ（カテゴリ別）
+# 初期データをとりあえずおいてる
 initial_apps = {
     "業務": [
         {"name": "サンプルアプリ1", "path": "C:/myapps/sample1.exe", "icon": "icons/sample1.ico"},
@@ -128,7 +128,7 @@ def on_double_click(event):
         path = tree.item(item_id, 'values')[0]
         launch_app(path)
 
-# GUI構築
+#　GUIはここから
 root = tk.Tk()
 root.title("業務アプリ起動ランチャー")
 root.geometry("600x400")
